@@ -52,4 +52,4 @@ Portfolio development is in progress. Review methodologies, demonstration findin
 
 ## Contact
 
-Professional contact details will be added when available.# web-security-audit-portfolio
+Professional contact details will be added when available.
